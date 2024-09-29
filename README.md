@@ -7,7 +7,7 @@ Features:
  Technologies used:
 1. HTML
 2. CSS
-3.  Java ScriPt
+3.  Java Script
 
    API Integration :
 1) OpenweatherMap API
